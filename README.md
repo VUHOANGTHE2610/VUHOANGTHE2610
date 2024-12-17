@@ -1,5 +1,39 @@
-# 💫 About Me:
-🧩 "Backend is the unseen engine, and I’m here to make it roar!"<br><br>🛠️ I’m currently building<br><br>A rock-solid path to becoming a Backend Developer. I specialize in making things run efficiently behind the scenes.<br>🌐 Languages I speak<br><br>💻 C# (aspiring expert—my weapon of choice!)<br>🌏 Japanese (Basic but sharp enough for coding adventures).<br>🌐 English (Basic communication to connect and grow).<br>🔥 I’m fueled by<br><br>Crafting clean, scalable code that feels like art but works like magic.<br>The thrill of solving bugs, optimizing systems, and witnessing a server respond at lightning speed!<br>🌱 Currently learning<br><br>C# in-depth, diving into its wonders to build systems that can power the world.<br>Mastering backend frameworks and architectural designs that last.<br>💡 I’m looking to collaborate on<br><br>Projects that challenge me to level up my backend development skills—whether it’s APIs, databases, or server optimization.<br>🧠 I’m seeking wisdom on<br><br>Best practices for backend development.<br>Real-world scenarios to sharpen my C# problem-solving ninja skills.<br>💬 Ask me about<br><br>Why I think backend developers are like ninjas—silent but powerful.<br>How learning Japanese and English is like debugging: slow at first, but rewarding in the end!<br>⚡ Fun fact<br><br>I believe the backend is like a good movie plot: you might not see it, but without it, everything falls apart. 🎬
+/**
+ * 💫 About Me:
+ * 🧩 "Backend is the unseen engine, and I’m here to make it roar!"
+ *
+ * 🛠️ Currently Building:
+ * - A solid path to becoming a Backend Developer, focusing on Java and system optimization.
+ *
+ * 🌐 Languages I Speak:
+ * - 💻 Java: My primary tool and the one I aspire to master completely.
+ * - 🌏 Japanese: Basic, but enough for technical adventures.
+ * - 🌐 English: Basic communication to connect, learn, and grow.
+ *
+ * 🔥 What Fuels Me:
+ * - Writing clean and scalable code that balances artistry and functionality.
+ * - The thrill of debugging, optimizing systems, and seeing servers respond at lightning speed.
+ *
+ * 🌱 Currently Learning:
+ * - Advanced Java features and best practices.
+ * - Backend frameworks like Spring Boot for building scalable applications.
+ * - System architecture and design patterns for robust backend solutions.
+ *
+ * 💡 Collaboration & Learning:
+ * - Looking to collaborate on:
+ *   - Backend projects like API design, database management, and server optimization.
+ * - Seeking wisdom in:
+ *   - Best practices for backend development.
+ *   - Real-world Java challenges to sharpen problem-solving skills.
+ *
+ * 💬 Ask Me About:
+ * - Why backend developers are like ninjas: quiet, invisible, but incredibly powerful.
+ * - How learning Java is like debugging: slow at first, but immensely satisfying in the end.
+ *
+ * ⚡ Fun Fact:
+ * - I believe the backend is like a great movie script: you may not see it, but without it, nothing works. 🎬
+ */
+
 
 
 ## 🌐 Socials:
